@@ -19,6 +19,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\SciParkDomainCore\JullianaDomainCore.csproj" />
+		<ProjectReference Include="..\JullianaDomainCore\JullianaDomainCore.csproj" />
 	</ItemGroup>
 </Project>
